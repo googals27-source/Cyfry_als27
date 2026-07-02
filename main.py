@@ -5,6 +5,7 @@ def main():
     print('Второе на master')
     print('Второе на master')
     print('Первое на temp')
+    print('Второе на temp')
 
 
 
