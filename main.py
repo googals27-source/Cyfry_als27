@@ -3,6 +3,7 @@ def main():
     print('Initial Commit')
     print('Первое на master')
     print('Второе на master')
+    print('Третье на master')
 
 
 
