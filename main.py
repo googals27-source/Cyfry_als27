@@ -2,6 +2,7 @@ def main():
     print('NEW PROJECT!!!')
     print('Initial Commit')
     print('Первое на master')
+    print('Второе на master')
 
 
 
