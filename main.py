@@ -8,6 +8,7 @@ def main():
     print('Первое на temp')
     print('Второе на temp')
 # Слияние
+    print('Первое на origin-master')
 
 
 
