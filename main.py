@@ -1,3 +1,7 @@
+import pygame as pg
+import PIL as pil
+
+
 def main():
     print('NEW PROJECT!!!')
     print('Initial Commit')
