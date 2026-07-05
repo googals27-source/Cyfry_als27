@@ -14,6 +14,7 @@ def main():
 # Слияние
     print('Первое на origin-master')
     print('Второе на origin-master')
+    print('Проверка Update')
 
 
 
